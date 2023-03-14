@@ -1,6 +1,38 @@
 [
     {
         "id": 1,
-        "name": "John Doe"
+        "name": "John Doe",
+        "elo": 1000,
+        "variation": 0,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "elo": 1000,
+        "variation": 0,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
+    },
+    {
+        "id": 3,
+        "name": "John Smith",
+        "elo": 1000,
+        "variation": 0,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
+    },
+    {
+        "id": 4,
+        "name": "Jane Smith",
+        "elo": 1000,
+        "variation": 0,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
     }
 ]
