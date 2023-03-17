@@ -1,38 +1,20 @@
 [
     {
-        "id": 1,
-        "name": "John Doe",
-        "elo": 1000,
-        "variation": 0,
-        "wins": 0,
-        "losses": 0,
-        "draws": 0
+        "id": 3791,
+        "name": "DE LA RIVA AGUADO, OSCAR",
+        "elo": 2519,
+        "eloChange": 4.4
     },
     {
-        "id": 2,
-        "name": "Jane Doe",
-        "elo": 1000,
-        "variation": 0,
-        "wins": 0,
-        "losses": 0,
-        "draws": 0
+        "id": 380062,
+        "name": "HENDERSON DE LA FUENTE, LANCE",
+        "elo": 2500,
+        "eloChange": -0.40
     },
     {
-        "id": 3,
-        "name": "John Smith",
-        "elo": 1000,
-        "variation": 0,
-        "wins": 0,
-        "losses": 0,
-        "draws": 0
-    },
-    {
-        "id": 4,
-        "name": "Jane Smith",
-        "elo": 1000,
-        "variation": 0,
-        "wins": 0,
-        "losses": 0,
-        "draws": 0
+        "id": 18703,
+        "name": "MORENTE PLAZA, MARC",
+        "elo": 2038,
+        "eloChange": -12.60
     }
 ]
