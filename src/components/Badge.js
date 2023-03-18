@@ -1,7 +1,10 @@
 export default function Badge({ variation }) {
   const arrow = variation > 0 ? '↑' : '↓';
-  const color = variation > 0 ? 'green' : 'red';
-  const className = `inline-flex items-center gap-1 rounded-full bg-${color}-50 px-2 py-1 text-md font-semibold text-${color}-600`;
+  const badgeColor = variation > 0 ? 'bg-green-50 text-green-600' : 'bg-red-50 text-red-600';
 
-  return <span className={className}>{arrow} {Math.abs(variation)}</span>;
+  return (
+    <span className={`${badgeColor} text-md inline-flex items-center gap-1 rounded-full px-2 py-1 font-semibold`}>
+      {arrow} {Math.abs(variation)}  
+    </span>
+  );
 }

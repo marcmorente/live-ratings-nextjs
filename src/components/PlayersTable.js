@@ -1,4 +1,4 @@
-import {players} from "/db";
+import {players} from "/lib/players";
 import Badge from "@/components/Badge";
 
 export default function PlayersTable() {
